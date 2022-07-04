@@ -6,7 +6,7 @@
 <ul>
 <li>🔭 <strong>Data Analyst </strong> </li>
 <li>👩‍🎓 <strong>Data Scientist </strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
-<li>📙 Check out my profile on <a href="https://www.linkedin.com/in/betulzeynep/">Linkedin</a></li>
+<li>📙 Check out my profile on <a href="[(https://www.linkedin.com/in/gülizaryetiş/">Linkedin</a></li>
   
  
 
