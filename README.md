@@ -42,7 +42,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://i0.wp.com/invotra.com/wp-content/uploads/2019/09/jira_software_logo-e1571063680300.png?fit=768%2C216&ssl=1" alt="jira"  height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" alt="slack" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1028/1*wZoo0vMo8hx7qpnPoS1CgA.png" alt="Azure/Docker"  height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1028/1*wZoo0vMo8hx7qpnPoS1CgA.png" alt="Azure/Docker"  height="80"/> </a>
   <br>
   
   
