@@ -14,12 +14,12 @@
   ## 🎨  Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau"  height="80"/> </a>
 
   
   ## 📙 Python Libraries
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy"  height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="80" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="80"/> </a>
@@ -46,7 +46,7 @@
 <a href="#" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
-</div>
+
 
   <br>
   
