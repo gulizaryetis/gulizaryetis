@@ -13,32 +13,32 @@
   
   ## 🎨  Data Visualization
 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib"  height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau"  height="80"/> </a>
 
   
   ## 📙 Python Libraries
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy"  height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn"  height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" height="100"/> </a>
   
   
   ## 💻 Languages
-<a href="#" target="_blank"> <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://i2.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/sqlite.jpg?fit=882%2C456&ssl=1" alt="SQLite" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://www.teamscs.com/wp-content/uploads/2016/04/sql-server-logo.png" alt="SQLserver" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://i2.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/sqlite.jpg?fit=882%2C456&ssl=1" alt="SQLite"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://www.teamscs.com/wp-content/uploads/2016/04/sql-server-logo.png" alt="SQLserver"  height="80"/> </a>
   
   
   
   ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" width="80" height="80"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" width="80" height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets"  height="80"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub"  height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="80" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://i0.wp.com/invotra.com/wp-content/uploads/2019/09/jira_software_logo-e1571063680300.png?fit=768%2C216&ssl=1" alt="jira"  width="80" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" alt="slack" width="80" height="80"/> </a>
