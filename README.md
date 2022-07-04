@@ -25,7 +25,7 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="100" height="100"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="100" height="50"/> </a>
   
   
   ## 💻 Languages
