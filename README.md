@@ -31,7 +31,6 @@
   
   ## 💻 Languages
 <a href="#" target="_blank"> <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://www.signl4.com/de/wp-content/uploads/sites/2/2019/01/3.png" alt="MySQL" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://i2.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/sqlite.jpg?fit=882%2C456&ssl=1" alt="SQLite" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://www.teamscs.com/wp-content/uploads/2016/04/sql-server-logo.png" alt="SQLserver" height="70"/> </a>
   
