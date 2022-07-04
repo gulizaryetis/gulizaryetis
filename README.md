@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div align="center">
+  <img src="https://img.freepik.com/free-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=996" width="600" height="300"/>
+</div>
 
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
@@ -26,7 +26,7 @@
 <a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="50"/> </a>
 
-  
+<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="80" height="80"/> </a>
   
   
   ## 💻 Languages
